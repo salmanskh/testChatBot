@@ -1,0 +1,11 @@
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\answersDataAccess.dll.config
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\answersDataAccess.dll
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\answersDataAccess.pdb
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\obj\Debug\answersDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\obj\Debug\answersDataAccess.csproj.CopyComplete
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\obj\Debug\answersDataAccess.dll
+C:\Users\Salman Sheikh\source\repos\testChatBot\answersDataAccess\obj\Debug\answersDataAccess.pdb
